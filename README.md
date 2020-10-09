@@ -1,3 +1,27 @@
+This porject is template react . In this i converted the existing html template into react template
+...
+Created components and resuable code ..
+
+used to create my first React Application.
+
+I download the react using npm modules
+
+### $ npm install react
+
+create an react template app
+
+### $ npx create-react-app two-website
+
+changing the direcory
+
+### $ cd two-website
+
+running the website
+
+### $ npm start
+
+After creating-react-app, package.json will be genrated automtically and dependencies of react is stored.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
